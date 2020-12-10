@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dijkstra's shortest-path algorithm", "Dijkstra's shortest-path algorithm.csproj", "{580FFCF6-8380-46BC-BC73-4A2D1F812B29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{580FFCF6-8380-46BC-BC73-4A2D1F812B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580FFCF6-8380-46BC-BC73-4A2D1F812B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580FFCF6-8380-46BC-BC73-4A2D1F812B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580FFCF6-8380-46BC-BC73-4A2D1F812B29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {933A760D-E73A-4071-A758-6DE8E39203A9}
+	EndGlobalSection
+EndGlobal

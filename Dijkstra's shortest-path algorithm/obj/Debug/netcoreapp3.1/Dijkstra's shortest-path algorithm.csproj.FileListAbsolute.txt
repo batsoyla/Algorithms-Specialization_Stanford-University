@@ -1,0 +1,13 @@
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week2\Dijkstra's shortest-path algorithm\bin\Debug\netcoreapp3.1\Dijkstra's shortest-path algorithm.exe
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week2\Dijkstra's shortest-path algorithm\bin\Debug\netcoreapp3.1\Dijkstra's shortest-path algorithm.deps.json
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week2\Dijkstra's shortest-path algorithm\bin\Debug\netcoreapp3.1\Dijkstra's shortest-path algorithm.runtimeconfig.json
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week2\Dijkstra's shortest-path algorithm\bin\Debug\netcoreapp3.1\Dijkstra's shortest-path algorithm.runtimeconfig.dev.json
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week2\Dijkstra's shortest-path algorithm\bin\Debug\netcoreapp3.1\Dijkstra's shortest-path algorithm.dll
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week2\Dijkstra's shortest-path algorithm\bin\Debug\netcoreapp3.1\Dijkstra's shortest-path algorithm.pdb
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week2\Dijkstra's shortest-path algorithm\obj\Debug\netcoreapp3.1\Dijkstra's shortest-path algorithm.csprojAssemblyReference.cache
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week2\Dijkstra's shortest-path algorithm\obj\Debug\netcoreapp3.1\Dijkstra's shortest-path algorithm.AssemblyInfoInputs.cache
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week2\Dijkstra's shortest-path algorithm\obj\Debug\netcoreapp3.1\Dijkstra's shortest-path algorithm.AssemblyInfo.cs
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week2\Dijkstra's shortest-path algorithm\obj\Debug\netcoreapp3.1\Dijkstra's shortest-path algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week2\Dijkstra's shortest-path algorithm\obj\Debug\netcoreapp3.1\Dijkstra's shortest-path algorithm.dll
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week2\Dijkstra's shortest-path algorithm\obj\Debug\netcoreapp3.1\Dijkstra's shortest-path algorithm.pdb
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week2\Dijkstra's shortest-path algorithm\obj\Debug\netcoreapp3.1\Dijkstra's shortest-path algorithm.genruntimeconfig.cache
