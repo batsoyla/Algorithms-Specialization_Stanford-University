@@ -1,0 +1,13 @@
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week3\Median Maintenance\bin\Debug\netcoreapp3.1\Median Maintenance.exe
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week3\Median Maintenance\bin\Debug\netcoreapp3.1\Median Maintenance.deps.json
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week3\Median Maintenance\bin\Debug\netcoreapp3.1\Median Maintenance.runtimeconfig.json
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week3\Median Maintenance\bin\Debug\netcoreapp3.1\Median Maintenance.runtimeconfig.dev.json
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week3\Median Maintenance\bin\Debug\netcoreapp3.1\Median Maintenance.dll
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week3\Median Maintenance\bin\Debug\netcoreapp3.1\Median Maintenance.pdb
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week3\Median Maintenance\obj\Debug\netcoreapp3.1\Median Maintenance.csprojAssemblyReference.cache
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week3\Median Maintenance\obj\Debug\netcoreapp3.1\Median Maintenance.AssemblyInfoInputs.cache
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week3\Median Maintenance\obj\Debug\netcoreapp3.1\Median Maintenance.AssemblyInfo.cs
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week3\Median Maintenance\obj\Debug\netcoreapp3.1\Median Maintenance.csproj.CoreCompileInputs.cache
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week3\Median Maintenance\obj\Debug\netcoreapp3.1\Median Maintenance.dll
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week3\Median Maintenance\obj\Debug\netcoreapp3.1\Median Maintenance.pdb
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\week3\Median Maintenance\obj\Debug\netcoreapp3.1\Median Maintenance.genruntimeconfig.cache
