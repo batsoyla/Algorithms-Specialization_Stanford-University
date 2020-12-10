@@ -1,0 +1,13 @@
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\kosaraju\bin\Debug\netcoreapp3.1\kosaraju.exe
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\kosaraju\bin\Debug\netcoreapp3.1\kosaraju.deps.json
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\kosaraju\bin\Debug\netcoreapp3.1\kosaraju.runtimeconfig.json
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\kosaraju\bin\Debug\netcoreapp3.1\kosaraju.runtimeconfig.dev.json
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\kosaraju\bin\Debug\netcoreapp3.1\kosaraju.dll
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\kosaraju\bin\Debug\netcoreapp3.1\kosaraju.pdb
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\kosaraju\obj\Debug\netcoreapp3.1\kosaraju.csprojAssemblyReference.cache
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\kosaraju\obj\Debug\netcoreapp3.1\kosaraju.AssemblyInfoInputs.cache
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\kosaraju\obj\Debug\netcoreapp3.1\kosaraju.AssemblyInfo.cs
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\kosaraju\obj\Debug\netcoreapp3.1\kosaraju.csproj.CoreCompileInputs.cache
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\kosaraju\obj\Debug\netcoreapp3.1\kosaraju.dll
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\kosaraju\obj\Debug\netcoreapp3.1\kosaraju.pdb
+C:\Users\Vasiliki\Desktop\coursera algorithms\algorithms coursera\kosaraju\obj\Debug\netcoreapp3.1\kosaraju.genruntimeconfig.cache
